@@ -4,11 +4,11 @@
 
 Projet réalisé lors du stage chez **IDEA Lab** (Février – Juin 2023).
 
-## 🎯 Objectif
+##  Objectif
 
 Développer une application web capable de détecter automatiquement le **syndrome de Sjögren** à partir d’échographies médicales en utilisant des modèles de **Deep Learning** (Convolutional Neural Networks).
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - Classification binaire d’images médicales (malade / sain)
 - Prétraitement et augmentation de données
@@ -17,13 +17,13 @@ Développer une application web capable de détecter automatiquement le **syndro
 - Interface utilisateur avec **React.js** pour visualiser les résultats
 - Pipeline complet d’entraînement et d’évaluation
 
-## 📊 Résultats
+##  Résultats
 
 - Dataset : **3 000 images** médicales
 - Modèle CNN/FCNN atteignant **98% de recall**
 - Application web fonctionnelle (backend + frontend)
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 
 - **Python**
 - **Machine Learning** : TensorFlow, Keras, CNN/FCNN
@@ -31,6 +31,3 @@ Développer une application web capable de détecter automatiquement le **syndro
 - **Frontend** : React.js
 - **Autres** : SQL, Data Augmentation, Image Preprocessing
 
-
-# Lancer le backend
-uvicorn main:app --reload# medical-image-classification-cnn
