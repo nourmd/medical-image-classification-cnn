@@ -2,8 +2,7 @@
 
 **Application de classification d'images médicales pour la détection du syndrome de Sjögren**
 
-Projet réalisé lors du stage chez **IDEA Lab** (Février – Juin 2023).
-
+98% Recall | 3000 images |  Classification Binaire
 ##  Objectif
 
 Développer une application web capable de détecter automatiquement le **syndrome de Sjögren** à partir d’échographies médicales en utilisant des modèles de **Deep Learning** (Convolutional Neural Networks).
